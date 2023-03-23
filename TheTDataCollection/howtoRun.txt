@@ -1,0 +1,14 @@
+to run these two file:
+may need to install bs4 library:
+    which can be installed using command:
+                    pip3 install bs4
+                or
+                    pip install bs4
+
+keep the data.html in the same folder as the stations.py and connections.py
+then run command in terminal:
+                    python stations.py
+                    python connections.py
+        if using python3:
+                    python3 stations.py
+                    python3 connections.py
